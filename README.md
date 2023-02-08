@@ -38,6 +38,6 @@ npm start or yarn start
 The application is not ready for deployment. More instructions to come at a later date.
 
 ### Built With
-[React](https://reactjs.org/) - JavaScript library for building user interfaces
-[TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript
-[Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS frameworks
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS frameworks
